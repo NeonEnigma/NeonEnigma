@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning a lot about programming!
+- 💬 Ask me if you need tips and ideas
+
 <!--
 **NeonEnigma/NeonEnigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
